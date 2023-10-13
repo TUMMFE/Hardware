@@ -1,5 +1,13 @@
 # Hardware
+Control Board
 
+USB Connector: make sure to solder the SHLD pins correctly
+placement of X1: "WE-Marking" facing outwards of PCB
+
+
+Sensor Board
+
+placement of X1: "WE-Marking" facing outwards of PCB
 ## Description
 This repository contains hardware design files for a thumb acceleration sensor. We provide schematics and a PCB layout created with Altium designer. For the use with other software, PDFs are provided. 
 

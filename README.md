@@ -1,5 +1,5 @@
 # Hardware
-Control Board
+Control Board  
 
 USB Connector: make sure to solder the SHLD pins correctly
 placement of X1: "WE-Marking" facing outwards of PCB
